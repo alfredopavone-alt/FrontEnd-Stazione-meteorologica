@@ -85,3 +85,24 @@ L’assenza di questa indicazione rende incompleta la valutazione tecnica dello 
 L’analisi tecnica non affronta aspetti minimi di qualità applicativa come gestione degli errori lato frontend, feedback all’utente in caso di problemi di rete o dati mancanti, e criteri minimi di manutenibilità del codice.
 
 Senza entrare in dettagli implementativi, sarebbe utile chiarire se sono previste pratiche di base (strutturazione dei componenti, gestione degli stati di errore, logging minimo lato frontend), così da rendere il progetto valutabile anche sul piano della robustezza e non solo delle funzionalità.
+
+
+# Valutazione finale progetto
+
+La documentazione di progetto è stata migliorata in modo evidente rispetto alle revisioni precedenti. I feedback ricevuti sono stati implementati soprattutto nella definizione del perimetro frontend/backend, nella coerenza tra analisi tecnica e funzionale e nella strutturazione del Project Plan.
+
+Il progetto reale mostra una buona qualità grafica e una struttura tecnica ordinata, con una base applicativa coerente e una corretta separazione delle responsabilità tra frontend e backend.
+
+Permangono tuttavia limiti importanti dal punto di vista funzionale. Una parte significativa delle funzionalità descritte nei documenti risulta solo parzialmente implementata oppure non completamente raggiunta nella versione finale del progetto.
+
+Anche gli strumenti di gestione progettuale, pur migliorati nella forma e nella struttura, risultano ancora poco utilizzati come strumenti reali di monitoraggio dell’avanzamento e delle revisioni.
+
+Nel complesso il progetto raggiunge comunque la sufficienza grazie:
+
+* al miglioramento sostanziale della documentazione;
+* alla buona qualità grafica dell’interfaccia;
+* alla presenza di una struttura tecnica coerente;
+* all’implementazione dei principali feedback ricevuti durante le milestone.
+
+Resta invece insufficiente il livello di completezza funzionale rispetto agli obiettivi inizialmente descritti.
+
